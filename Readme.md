@@ -27,7 +27,7 @@ A simple business card app built for Android using Kotlin and Jetpack Compose. I
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
